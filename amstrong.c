@@ -6,7 +6,7 @@ printf("enter the limit");
 scanf("%d",&1);
 printf("amstrong numbers are");
 i=1;
-while(i<=10
+while(i<=10)
 {
 int p,s;
 n=i;
